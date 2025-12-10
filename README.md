@@ -1,1 +1,1 @@
-# odin-recipes
+This was my first real html project. I had a task of creating a home page which had links to 3 futher recipes of some food products. I felt pretty easy
